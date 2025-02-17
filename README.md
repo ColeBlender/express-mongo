@@ -2,7 +2,7 @@
 
 My links:
 
-- Full Tutorial 👉 https://youtu.be/S8JuA0IBBPc
+- Full Tutorial 👉 https://github.com/ColeBlender/express-mongo
 - Personal 👉 https://coleblender.com
 - Business 👉 https://superlativesites.com
 - YouTube 👉 https://youtube.com/@coleblender
@@ -12,5 +12,5 @@ My links:
 
 Helpful docs:
 
-- https://docs.docker.com/desktop/setup/install/mac-install/
-- https://www.mongodb.com/docs/compass/current/install/
+- https://www.mongodb.com/docs/compass/current/install
+- https://docs.docker.com/desktop/setup/install/mac-install
